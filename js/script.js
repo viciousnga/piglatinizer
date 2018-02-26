@@ -6,7 +6,7 @@
 
 // Document Ready Function. All of your jQuery should go in here. 
 $( document ).ready(function() {
-  
+		
 
 
 
@@ -14,9 +14,13 @@ $( document ).ready(function() {
 
 
 // Create the wordToPigLatin function that takes a word as a parameter and returns a transfromed word. 
-
-
-
+function translate(str) {
+ var vowel = ['a', 'e', 'i', 'o', 'u'];
+    // add ay to the end
+	if index.(str[0]) === vowel {
+	return str + "ay"}; 
+	
+};
 
 
 

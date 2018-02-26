@@ -1,1 +1,5 @@
-
+#container {
+    background-image:url("eddy.gif");
+    background-position: center;
+    background-size: cover;
+}
